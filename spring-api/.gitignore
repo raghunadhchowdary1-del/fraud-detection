@@ -1,0 +1,10 @@
+venv/
+**/venv/
+__pycache__/
+*.pyc
+*.pkl
+node_modules/
+spring-api/target/
+.env
+*.class
+*.jar
